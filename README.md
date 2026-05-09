@@ -12,11 +12,14 @@ An **Admin panel** is included to manage users, equipment, and system operations
  **Live Demo:** http://localhost:5173/
 
 ---
-# Farm-OnDemand
-
+# Screenshots
 ## Home Page
 
 ![Home Page](./screenshot/home.png)
+![](./screenshot/about.png)
+![](./screenshot/contact.png)
+![](./screenshot/registration-page.png)
+![](./screenshot/login-page.png)
 
 ## Admin Dashboard
 
