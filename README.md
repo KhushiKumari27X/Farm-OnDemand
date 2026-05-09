@@ -19,7 +19,7 @@ An **Admin panel** is included to manage users, equipment, and system operations
 ![](./screenshot/about.png)
 ![](./screenshot/contact.png)
 ![](./screenshot/registration-page.png)
-![](./screenshot/login-page.png)
+![](./screenshot/admin-login-page.png)
 
 ## Admin Dashboard
 
