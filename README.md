@@ -12,7 +12,25 @@ An **Admin panel** is included to manage users, equipment, and system operations
  **Live Demo:** http://localhost:5173/
 
 ---
+# Farm-OnDemand
 
+## Home Page
+
+![Home Page](./screenshot/home.png)
+
+## Admin Dashboard
+
+![Admin Dashboard](./screenshot/admin-dashboard.png)
+
+## Farmer Dashboard
+
+![Farmer Dashboard](./screenshot/farmer-dashboard.png)
+
+## Owner Dashboard
+
+![Owner Dashboard](./screenshot/owner-dashboard.png)
+
+---
 ##  Objectives
 
 - Provide easy access to farm equipment  
